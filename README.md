@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Yan 👋  
 
-<!--
-**yan-kaina/yan-kaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Programmer specializing in Flutter, Django, and RESTful APIs**  
+🌐 Passionate about building apps, APIs, and websites that solve real-world problems.  
+💻 Contributing free and open-source code, while also offering premium solutions through GitHub Sponsors.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 **Tech Stack**  
+- **Frontend**: Flutter (Mobile & Web)  
+- **Backend**: Django, Django REST Framework  
+- **APIs**: RESTful API development and integration  
+- **Databases**: PostgreSQL, MySQL  
+- **DevOps**: Docker, GitHub Actions  
+
+---
+
+💡 *“Code is not just what I do, it’s my way of making the world a better place.”*  
