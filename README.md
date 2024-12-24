@@ -2,7 +2,7 @@
 
 🚀 **Programmer specializing in Flutter, Django, and RESTful APIs**  
 🌐 Passionate about building apps, APIs, and websites that solve real-world problems.  
-💻 Contributing free and open-source code, while also offering premium solutions through GitHub Sponsors.  
+💻 Contributing free and open-source code.
 
 ---
 
